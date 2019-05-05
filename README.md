@@ -1,5 +1,5 @@
 # Prime-Numbers
 
 Playing around with different algorithms to find out the first n prime number.
-Some of the mechanisms used, eratos thenes sieve, sundaram algorithm, square root division.
-Tried different containers, moslty vectors ans list to see if preformance improves.
+Some of the mechanisms used are simple implementations of Eratosthenes sieve, sundaram algorithm, and square root division.
+Tried different containers, mostly vectors (and lists) to see if performance improves.
